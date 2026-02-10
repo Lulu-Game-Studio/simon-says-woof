@@ -1,9 +1,8 @@
 [gd_scene format=3 uid="uid://do05mkwxxx06b"]
 
-[ext_resource type="Script" uid="uid://cttg75opj04i1" path="res://escenas/contador_muertes/contador_muertes.gd" id="1_kvbo8"]
-[ext_resource type="Theme" uid="uid://chysuf464hvjx" path="res://temas/interfaz_ingame.tres" id="2_jfujv"]
+[ext_resource type="Script" uid="uid://c7h2ri0d5vj0f" path="res://life_counter/life_counter.gd" id="1_xcixa"]
 
-[node name="ContadorMuertes" type="Control" node_paths=PackedStringArray("label")]
+[node name="Counter" type="Control" unique_id=1483714289]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
@@ -12,10 +11,9 @@ offset_right = -1152.0
 offset_bottom = -648.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_kvbo8")
-label = NodePath("ColorRect/HBoxContainer/Valor")
+script = ExtResource("1_xcixa")
 
-[node name="ColorRect" type="ColorRect" parent="."]
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1689960644]
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -30,7 +28,7 @@ grow_horizontal = 2
 grow_vertical = 2
 color = Color(0, 0.5333333, 1, 0.42352942)
 
-[node name="HBoxContainer" type="HBoxContainer" parent="ColorRect"]
+[node name="HBoxContainer" type="HBoxContainer" parent="ColorRect" unique_id=335904666]
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -44,12 +42,10 @@ offset_bottom = 20.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="Titulo" type="Label" parent="ColorRect/HBoxContainer"]
+[node name="Tittle" type="Label" parent="ColorRect/HBoxContainer" unique_id=1789582465]
 layout_mode = 2
-theme = ExtResource("2_jfujv")
-text = "Muertes:"
+text = "LIFES:"
 
-[node name="Valor" type="Label" parent="ColorRect/HBoxContainer"]
+[node name="Value" type="Label" parent="ColorRect/HBoxContainer" unique_id=19254329]
 layout_mode = 2
-theme = ExtResource("2_jfujv")
 text = "0"
