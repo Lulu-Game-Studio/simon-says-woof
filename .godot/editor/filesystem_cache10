@@ -1,0 +1,82 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1770725194
+icon.svg::CompressedTexture2D::3751164413469295945::1770724993::1770725084::1::::<><><>0<>0<>8915c7d314ee3195921fe173f4e0176b<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1770724993::0::1::::<><><>0<>0<><>::
+::res://assets/::1770724993
+::res://assets/Design/::1770724993
+::res://assets/Design/Animation/::1770725084
+barksprite with lines.png::CompressedTexture2D::2261834832616497399::1770724993::1770725084::1::::<><><>0<>0<>a159601982671b885291ee07930702f4<>res://.godot/imported/barksprite with lines.png-87f8ae77f452c0b4a7db4e4a2f312f80.ctex::
+barksprite without lines.png::CompressedTexture2D::7788551500746804235::1770724993::1770725084::1::::<><><>0<>0<>6aa29e91e64aa02f16774dbee31c9a95<>res://.godot/imported/barksprite without lines.png-ef8e7a65b2962e1e151d075230e9f5d4.ctex::
+idlesprite.png::CompressedTexture2D::1394240551558773878::1770724993::1770725084::1::::<><><>0<>0<>136cc4e6e54c9495cd48c70c41e32df8<>res://.godot/imported/idlesprite.png-883761d8c8c5439eaf592a3fb9d5a3cd.ctex::
+jumpsprite.png::CompressedTexture2D::7860571891438969794::1770724993::1770725084::1::::<><><>0<>0<>8876736548fcee695be72333c9a4a412<>res://.godot/imported/jumpsprite.png-f1808f02ce395a1e662c4e5d1e3acd6d.ctex::
+perrointerrogacion.png::CompressedTexture2D::3373020335724484685::1770724993::1770725084::1::::<><><>0<>0<>7a5877509aa94e44fea1e0f743301dd6<>res://.godot/imported/perrointerrogacion.png-e5ef5b2b818089e1ba8b56771a4f5c47.ctex::
+personahblando.png::CompressedTexture2D::5515398163875138565::1770724993::1770725084::1::::<><><>0<>0<>21d8427387d7d7b1a0a08097a75c0adb<>res://.godot/imported/personahblando.png-e03901b3ba5516cc553c5273afec153a.ctex::
+personaquieta.png::CompressedTexture2D::4293025138408758614::1770724993::1770725084::1::::<><><>0<>0<>2bd4db8028afdf1218ab560196337be8<>res://.godot/imported/personaquieta.png-841ded783b6d56c2c17f406a3ae5685b.ctex::
+poopsprite.png::CompressedTexture2D::8795941360587520181::1770724993::1770725084::1::::<><><>0<>0<>7d846068fbd9f644f3030805e911fccc<>res://.godot/imported/poopsprite.png-f69999abe04b1d4bf26b8dc7163fd406.ctex::
+runsprite.png::CompressedTexture2D::4469460406937148808::1770724993::1770725084::1::::<><><>0<>0<>9859a54892c9ba7d1db052fd574e0c52<>res://.godot/imported/runsprite.png-76102572310fea6c1a22ca9f3b37f585.ctex::
+sitsprite.png::CompressedTexture2D::9212363321635305879::1770724993::1770725084::1::::<><><>0<>0<>c3a1cf10ddf1f620e76eea1d5a05d1fc<>res://.godot/imported/sitsprite.png-7214ccf5def7946cac5f6361b3d49828.ctex::
+walksprite.png::CompressedTexture2D::5656367215004769564::1770724993::1770725084::1::::<><><>0<>0<>0de50aabe462bf373fc3896f9a4100b9<>res://.godot/imported/walksprite.png-19c6ff3f5870d8d54b64b429e6919574.ctex::
+::res://assets/Design/Logo/::1770725091
+61222x4.png::CompressedTexture2D::1833426195896350230::1770724993::1770725090::1::::<><><>0<>0<>695567610cba9281418c8f8e8804aae6<>res://.godot/imported/61222x4.png-0382839278688b1b80dbc995a480c246.ctex::
+061222x5.png::CompressedTexture2D::1782878889377041394::1770724993::1770725090::1::::<><><>0<>0<>033b455ed085f296dde9c7aeeafb2a1d<>res://.godot/imported/061222x5.png-e9e303f851d8f52665120d2107f2167b.ctex::
+final.png::CompressedTexture2D::1822505246955674426::1770724993::1770725090::1::::<><><>0<>0<>b25a4ee30e99d45dd19cad33c601550a<>res://.godot/imported/final.png-2e7c7b78618779a2fd0ecbdec8c8cbf2.ctex::
+lulugamestudio_logo.png::CompressedTexture2D::3020769151209728956::1770724993::1770725089::1::::<><><>0<>0<>b9536d2f0d755efb717941b30cc3f168<>res://.godot/imported/lulugamestudio_logo.png-19fb3b895bf4fba3996cec7b4b6c734a.ctex::
+::res://assets/fondos mapa/::1770724993
+license.txt::TextFile::-1::1770724993::0::1::::<><><>0<>0<><>::
+::res://assets/fondos mapa/PNG/::1770724993
+::res://assets/fondos mapa/PNG/autumn/::1770725089
+1.png::CompressedTexture2D::992136428762800932::1770724993::1770725086::1::::<><><>0<>0<>770f05bec9ae90eeb4ec342d5f476bfc<>res://.godot/imported/1.png-3bb61f04abdd363a9fd99e5f7ac6f5b4.ctex::
+2.png::CompressedTexture2D::7516209795444914333::1770724993::1770725087::1::::<><><>0<>0<>9e57c05830b89dc642879e88969d7114<>res://.godot/imported/2.png-03b1eb5f92f9f1a6374cac660fe25eed.ctex::
+3.png::CompressedTexture2D::4387425664674782490::1770724993::1770725087::1::::<><><>0<>0<>b9ea4c93417ae99ad8d9df10fc899c15<>res://.godot/imported/3.png-72fd915992f5c557ba2f2724509c69bf.ctex::
+4.png::CompressedTexture2D::9146655220211281955::1770724993::1770725088::1::::<><><>0<>0<>34b2234d2dcc84cf94622a037ec2fbe1<>res://.godot/imported/4.png-f807f4278df5ac78a1bac76d833b833b.ctex::
+5.png::CompressedTexture2D::4512652779586848273::1770724993::1770725087::1::::<><><>0<>0<>ed03ada41b3fb019edd032ee7799e341<>res://.godot/imported/5.png-1a5febc5f6c8fbcc3fcb56e0b647b926.ctex::
+6.png::CompressedTexture2D::4462511371690704225::1770724993::1770725089::1::::<><><>0<>0<>e1d43e2fa728177b5f98444a47de7b6d<>res://.godot/imported/6.png-9064a6cab62202e99ea81c341c0304d2.ctex::
+::res://assets/fondos mapa/PNG/spring/::1770725085
+1.png::CompressedTexture2D::6106931453470808834::1770724993::1770725083::1::::<><><>0<>0<>400213cb6fa32f333822c1722cee7b02<>res://.godot/imported/1.png-82453ed7c5bc9e316d52cd45dccc086a.ctex::
+2.png::CompressedTexture2D::8050195373334181305::1770724993::1770725083::1::::<><><>0<>0<>d476451e7e4a0ba6acf19c295d646133<>res://.godot/imported/2.png-c32f1beca1037a3ed59c300279f64d39.ctex::
+3.png::CompressedTexture2D::1361611232126227739::1770724993::1770725083::1::::<><><>0<>0<>042db7c5da6d25a6c79f8bf48de16d2d<>res://.godot/imported/3.png-498b39345e85f33a0dfac50d3bd48354.ctex::
+4.png::CompressedTexture2D::4217833175405027304::1770724993::1770725084::1::::<><><>0<>0<>cdbe9987292354efaa04f5769b41ab42<>res://.godot/imported/4.png-1f40e2db759c93bca36a08db3baf9f52.ctex::
+5.png::CompressedTexture2D::8806082476238474007::1770724993::1770725082::1::::<><><>0<>0<>648852dba42fcc9fe24d0e13bec4e7c4<>res://.godot/imported/5.png-03872b537f23be25ca1d7d77ca179518.ctex::
+6.png::CompressedTexture2D::6983500349977282319::1770724993::1770725085::1::::<><><>0<>0<>a420796d00ecc53bdb09fce64122a301<>res://.godot/imported/6.png-fc8eb5cb948ef6ebad348380103227e0.ctex::
+::res://assets/fondos mapa/PNG/summer/::1770725086
+1.png::CompressedTexture2D::8046597819160546031::1770724993::1770725083::1::::<><><>0<>0<>ca32099ad0dd70233f04adc3e2873432<>res://.godot/imported/1.png-1d9538d14cee7c8431c5ea4a14b361ad.ctex::
+2.png::CompressedTexture2D::7153270759253546379::1770724993::1770725082::1::::<><><>0<>0<>20633a9ef63e8e88bc1568bfc4591615<>res://.godot/imported/2.png-b0d12e1ad4e2e2e7c387dfea7ec2216b.ctex::
+3.png::CompressedTexture2D::5615780537106213404::1770724993::1770725084::1::::<><><>0<>0<>7597d9151e0c19f4f6575aceb6db8372<>res://.godot/imported/3.png-c0e9bbfb1b09762435b5d55106c43a37.ctex::
+4.png::CompressedTexture2D::8234247385862438350::1770724993::1770725083::1::::<><><>0<>0<>61cd919729f52a994d3ec130dfed73ea<>res://.godot/imported/4.png-c06a73405be1ff7fc2304d48db7c1b06.ctex::
+5.png::CompressedTexture2D::4833211451647052984::1770724993::1770725086::1::::<><><>0<>0<>ea20a69cc8fdd8ba3357cf47a9160bc0<>res://.godot/imported/5.png-c2583b48e8e5834d304b7fab31802d9d.ctex::
+::res://assets/fondos mapa/PNG/winter/::1770725087
+1.png::CompressedTexture2D::8664873654339218993::1770724993::1770725087::1::::<><><>0<>0<>bb587cd31e34b366f54c6fe3d20e8cc1<>res://.godot/imported/1.png-f70935b2740c550d51037fc6d133e934.ctex::
+2.png::CompressedTexture2D::8980551191564240298::1770724993::1770725084::1::::<><><>0<>0<>75a72e617e58d9b59f11373501fab312<>res://.godot/imported/2.png-4aba4cdee829a387fbbc766c892bd69a.ctex::
+3.png::CompressedTexture2D::3693476709860107365::1770724993::1770725085::1::::<><><>0<>0<>690b05f7f08a7953c0b86853052c495c<>res://.godot/imported/3.png-d4e74114704692e1d404aa03c65131d7.ctex::
+4.png::CompressedTexture2D::6687460833593805679::1770724993::1770725084::1::::<><><>0<>0<>ea77b901f36de2920ce6c9086afd96f1<>res://.godot/imported/4.png-6eccb32aeecdf76c620a51863a9b9000.ctex::
+5.png::CompressedTexture2D::8439162140522934303::1770724993::1770725087::1::::<><><>0<>0<>2b96df4c93d11057eb978d6fb85140ab<>res://.godot/imported/5.png-87126a5940c498386cf9e940bd730fd0.ctex::
+::res://dog/::1770724993
+bark.tscn::PackedScene::7532417664000096168::1770724993::0::1::::<><><>0<>0<><>::uid://di73km6lu4vdj::::res://assets/Design/Animation/barksprite without lines.png<>uid://7hwdbfj6tblv::::res://assets/Design/Animation/barksprite with lines.png
+confusing.tscn::PackedScene::3679345477282235392::1770724993::0::1::::<><><>0<>0<><>::uid://bob6ff4ebk56x::::res://assets/Design/Animation/perrointerrogacion.png
+jump.tscn::PackedScene::4959592198135136810::1770724993::0::1::::<><><>0<>0<><>::uid://dj8yqaa1rmqgg::::res://assets/Design/Animation/jumpsprite.png
+poop.tscn::PackedScene::905705900168363477::1770724993::0::1::::<><><>0<>0<><>::uid://dxk24sxlky7m4::::res://assets/Design/Animation/poopsprite.png
+run.tscn::PackedScene::4732408509794864798::1770724993::0::1::::<><><>0<>0<><>::uid://b4xbmib0h7eua::::res://assets/Design/Animation/runsprite.png
+sit.tscn::PackedScene::6247701637101724433::1770724993::0::1::::<><><>0<>0<><>::uid://d4isjpldtvtgh::::res://assets/Design/Animation/sitsprite.png
+static.tscn::PackedScene::9181066486221109336::1770724993::0::1::::<><><>0<>0<><>::uid://t4m65sl28u5s::::res://assets/Design/Animation/idlesprite.png
+walk.tscn::PackedScene::7972932791347823714::1770724993::0::1::::<><><>0<>0<><>::uid://cmt8soebx413e::::res://assets/Design/Animation/walksprite.png
+::res://fonts/::1770724993
+::res://fonts/song_of_valentine_sans/::1770725081
+More Info.txt::TextFile::-1::1770724993::0::1::::<><><>0<>0<><>::
+Song of Valentine Sans.otf::FontFile::1356455324056827264::1770724993::1770725081::1::::<><><>0<>0<>c56a018852f10f07a0343262ebcc385b<>res://.godot/imported/Song of Valentine Sans.otf-f9766a8a3ab32d99e4014bfcf2e9f4a4.fontdata::
+::res://life_controller/::1770725214
+contador_muertes.tscn::PackedScene::-1::1770725214::0::1::::<><><>0<>0<><>::
+::res://person/::1770724993
+static.tscn::PackedScene::754247029473263156::1770724993::0::1::::<><><>0<>0<><>::uid://b2ftq5kwd8ib3::::res://assets/Design/Animation/personaquieta.png
+talk.tscn::PackedScene::2682069197093464921::1770724993::0::1::::<><><>0<>0<><>::uid://cktx2jb2w8goj::::res://assets/Design/Animation/personahblando.png
+::res://scenes/::1770724993
+keys.tscn::PackedScene::1129843833854617284::1770724993::0::1::::<><><>0<>0<><>::uid://cuqyyljlgggvw::::res://scripts/keys.gd
+map01.tscn::PackedScene::5251295895389416650::1770724993::0::1::::<><><>0<>0<><>::uid://ca4ij0fk7ye4o::::res://assets/fondos mapa/PNG/summer/5.png
+start_menu.tscn::PackedScene::2831480456693733698::1770724993::0::1::::<><><>0<>0<><>::uid://lh2il80i8ju3::::res://scripts/start_menu.gd
+::res://scripts/::1770724993
+keys.gd::GDScript::6211148943260061352::1770724993::0::1::::<>Control<><>0<>0<><>::
+start_menu.gd::GDScript::788182199335990096::1770724993::0::1::::<>Node<><>0<>0<><>::
+::res://simon-says-woof!/::1770724993
+::res://sounds/::1770724993
+::res://sounds/dog/::1770725082
+ladrido.mp3::AudioStreamMP3::5640199741703678906::1770724993::1770725081::1::::<><><>0<>0<>8fb3c9fa709a06298b71eff37ef1ad7e<>res://.godot/imported/ladrido.mp3-cb7f6954ec87702d4eb4b5511c7ff733.mp3str::
+pop.mp3::AudioStreamMP3::847816451431266890::1770724993::1770725081::1::::<><><>0<>0<>3650ca299e86d38798aeb7a064e44d99<>res://.godot/imported/pop.mp3-7979da38bbab8b0f682686b3a5ebef69.mp3str::
